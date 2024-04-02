@@ -1,4 +1,4 @@
-Elaboré comme correction de TP pour un cours de programmation orientée objet. 
+Elaboré comme correction de TP pour un cours de programmation orientée objet. Il s'agit d'un labyrinthe construit par l'utilisateur par le biais des commandes dans la console. 
 
 En tant qu’utilisateur vous avez 3 types de « commande » possibles en entrée :
 
